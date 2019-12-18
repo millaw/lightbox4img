@@ -1,6 +1,6 @@
 === Single Image LightBox ===
 Contributors: millawynn
-Donate link: http://millawynn.com/donate
+Website link: https://mlwynn.com
 Tags: single image, lightbox, single, image
 Requires at least: 4.2
 Tested up to: 4.7
